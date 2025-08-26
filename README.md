@@ -10,6 +10,5 @@ The Kalman Filter fuses noisy accelerometer and gyroscope data to provide stable
 - Noise reduction: filters out random fluctuations in raw IMU signals  
 - Drift correction: compensates for gyroscope bias  
 - Lightweight & modular: easy integration with embedded systems  
-- Cross-compatible: Arduino (C++), Python, or embedded applications  
 
 ---
